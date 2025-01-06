@@ -1,4 +1,4 @@
-## Hi there 👋
+## For more information on MemeHawkAI and its purposes aswell as utilities see our gist for more information.
 
 <!--
 **MemeHawkAI/MemeHawkAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
